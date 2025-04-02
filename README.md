@@ -81,6 +81,10 @@ Available search parameters include:
 
 `age_max`: Maximum age
 
+## FBI Full List 
+
+This is a version where it will list all most wanted without you having to manually entering API fields. 
+
 ## Author 
 
 Michael Mendy (c) 2025. 
